@@ -1,4 +1,8 @@
 # aya
+<<<<<<< HEAD
 # Mahjoub
 #21
 #fes/Mohammedia 
+=======
+#mahjoub
+>>>>>>> refs/remotes/origin/main
